@@ -1,0 +1,193 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/css/style.css.map",
+      "PackagePath": "staticwebassets/css/style.css.map"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/css/style.scss",
+      "PackagePath": "staticwebassets/css/style.scss"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/animal-bg.jpg",
+      "PackagePath": "staticwebassets/images/animal-bg.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/bird.jpg",
+      "PackagePath": "staticwebassets/images/bird.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/call.png",
+      "PackagePath": "staticwebassets/images/call.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/cat.jpg",
+      "PackagePath": "staticwebassets/images/cat.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/client-bg.jpg",
+      "PackagePath": "staticwebassets/images/client-bg.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/client.png",
+      "PackagePath": "staticwebassets/images/client.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/dog.jpg",
+      "PackagePath": "staticwebassets/images/dog.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/dog.png",
+      "PackagePath": "staticwebassets/images/dog.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/f1.png",
+      "PackagePath": "staticwebassets/images/f1.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/f2.png",
+      "PackagePath": "staticwebassets/images/f2.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/f3.png",
+      "PackagePath": "staticwebassets/images/f3.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/fb.png",
+      "PackagePath": "staticwebassets/images/fb.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/fish.jpg",
+      "PackagePath": "staticwebassets/images/fish.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/heading-img.png",
+      "PackagePath": "staticwebassets/images/heading-img.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/hero-bg.jpg",
+      "PackagePath": "staticwebassets/images/hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/hero-bg2.png",
+      "PackagePath": "staticwebassets/images/hero-bg2.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/instagram.png",
+      "PackagePath": "staticwebassets/images/instagram.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/link-arrow.png",
+      "PackagePath": "staticwebassets/images/link-arrow.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/linkedin.png",
+      "PackagePath": "staticwebassets/images/linkedin.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/mail.png",
+      "PackagePath": "staticwebassets/images/mail.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/next-angle.png",
+      "PackagePath": "staticwebassets/images/next-angle.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/next.png",
+      "PackagePath": "staticwebassets/images/next.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/omega.png",
+      "PackagePath": "staticwebassets/images/omega.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/pet-bg.png",
+      "PackagePath": "staticwebassets/images/pet-bg.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/pet-img.png",
+      "PackagePath": "staticwebassets/images/pet-img.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/pet1.png",
+      "PackagePath": "staticwebassets/images/pet1.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/pet2.png",
+      "PackagePath": "staticwebassets/images/pet2.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/prev-angle.png",
+      "PackagePath": "staticwebassets/images/prev-angle.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/prev.png",
+      "PackagePath": "staticwebassets/images/prev.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/quote.png",
+      "PackagePath": "staticwebassets/images/quote.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/search-icon.png",
+      "PackagePath": "staticwebassets/images/search-icon.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/shield.png",
+      "PackagePath": "staticwebassets/images/shield.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/slider-img.png",
+      "PackagePath": "staticwebassets/images/slider-img.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/images/twitter.png",
+      "PackagePath": "staticwebassets/images/twitter.png"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/wwwroot/js/jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.drollLab.props",
+      "PackagePath": "build\\drollLab.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.drollLab.props",
+      "PackagePath": "buildMultiTargeting\\drollLab.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.drollLab.props",
+      "PackagePath": "buildTransitive\\drollLab.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.drollLab.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

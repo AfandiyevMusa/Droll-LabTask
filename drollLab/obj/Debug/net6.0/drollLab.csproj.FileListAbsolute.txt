@@ -1,0 +1,130 @@
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/appsettings.Development.json
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/appsettings.json
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.staticwebassets.runtime.json
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.deps.json
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.runtimeconfig.json
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.pdb
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Humanizer.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.MvcApplicationPartsAssemblyInfo.cache
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.RazorAssemblyInfo.cache
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.RazorAssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets/msbuild.drollLab.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets/msbuild.build.drollLab.props
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.drollLab.props
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.drollLab.props
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets.build.json
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets.development.json
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/scopedcss/bundle/drollLab.styles.css
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.csproj.CopyComplete
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/refint/drollLab.dll
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.pdb
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.genruntimeconfig.cache
+/Users/afandiyevmusa/Desktop/P414 Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/ref/drollLab.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/appsettings.Development.json
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/appsettings.json
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.staticwebassets.runtime.json
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.deps.json
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.runtimeconfig.json
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/drollLab.pdb
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Humanizer.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.csproj.AssemblyReference.cache
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.AssemblyInfoInputs.cache
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.AssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.csproj.CoreCompileInputs.cache
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.MvcApplicationPartsAssemblyInfo.cache
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.RazorAssemblyInfo.cache
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.RazorAssemblyInfo.cs
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets/msbuild.drollLab.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets/msbuild.build.drollLab.props
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.drollLab.props
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.drollLab.props
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets.build.json
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/staticwebassets.development.json
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/scopedcss/bundle/drollLab.styles.css
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.csproj.CopyComplete
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/refint/drollLab.dll
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.pdb
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/drollLab.genruntimeconfig.cache
+/Users/afandiyevmusa/Desktop/P414Code/Backend/ASP.NET/LabTask/drollLab/drollLab/obj/Debug/net6.0/ref/drollLab.dll

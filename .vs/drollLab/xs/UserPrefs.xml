@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{E6AD2BF0-E423-403F-B6B5-498F9EB60E2B}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="drollLab/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="drollLab/Controllers/HomeController.cs" Line="29" Column="15" />
+      <File FileName="drollLab/Views/Home/Index.cshtml" Line="365" Column="4" />
+      <File FileName="drollLab/Views/Shared/_Layout.cshtml" Line="15" Column="28" />
+      <File FileName="drollLab/Models/ProductImage.cs" Line="6" Column="22" />
+      <File FileName="drollLab/Models/BaseEntity.cs" />
+      <File FileName="drollLab/ViewModels/HomeVM.cs" Line="14" Column="1" />
+      <File FileName="drollLab/appsettings.Development.json" />
+      <File FileName="drollLab/Views/_ViewImports.cshtml" Line="3" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="drollLab" expanded="True">
+            <Node name="drollLab" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="About" expanded="True" />
+                <Node name="Contact" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.drollLab PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
